@@ -1,0 +1,48 @@
+{
+  "source": "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/Intents/MarkSubscriptionUsedIntent.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Aboneliği Kullanıldı İşaretle",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Subgrave'e bu aboneliği bugün kullandığınızı söyler. Genellikle Shortcuts otomasyonu ile uygulama açılışına bağlanır.",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Abonelik",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ için kullanım zamanı güncellendi. Yaşıyor ve nefes alıyor.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bu abonelik artık Subgrave'de bulunamadı.",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 55
+        }
+      }
+    ]
+  },
+  "version": 1
+}

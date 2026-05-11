@@ -1,0 +1,48 @@
+{
+  "source": "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/Views/Graveyard/Components/TombstoneView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Dirilt",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Kaldır",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ – %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "«%@»",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "Diriliş etiketli",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 105
+        }
+      }
+    ]
+  },
+  "version": 1
+}

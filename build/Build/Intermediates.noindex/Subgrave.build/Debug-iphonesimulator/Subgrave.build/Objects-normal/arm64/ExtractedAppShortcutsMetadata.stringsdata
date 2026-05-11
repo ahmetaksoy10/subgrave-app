@@ -1,0 +1,35 @@
+{
+  "version" : 2,
+  "source" : "\/Users\/macbookpro\/Desktop\/xCode Project\/xCode myApp\/SwiftUI\/Subgrave\/Subgrave\/Intents\/SubgraveShortcuts.swift",
+  "tables" : {
+    "AppShortcuts" : [
+      {
+        "key" : "${applicationName} abonelik kullandım",
+        "values" : [
+          "${applicationName} abonelik kullandım",
+          "${applicationName} ile ${subscription} kullanıldı işaretle",
+          "${applicationName} için kullanım kaydet"
+        ],
+        "location" : {
+          "startingColumn" : 0,
+          "startingLine" : 17
+        },
+        "appShortcutMetadata" : [
+          {
+            "title" : "Aboneliği Kullanıldı İşaretle",
+            "index" : 0,
+            "parameterTypes" : {
+              "subscription" : "SubscriptionEntity"
+            },
+            "actionIdentifier" : "MarkSubscriptionUsedIntent",
+            "parameterDisplayRepresentations" : {
+              "SubscriptionEntity" : [
+                "Abonelik"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

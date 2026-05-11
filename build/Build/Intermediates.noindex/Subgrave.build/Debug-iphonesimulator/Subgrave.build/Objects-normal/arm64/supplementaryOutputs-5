@@ -1,0 +1,23 @@
+{
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/ViewModels/StatisticsViewModel.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/StatisticsViewModel.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/StatisticsViewModel.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/StatisticsViewModel.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/StatisticsViewModel.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/StatisticsViewModel.swiftdeps"
+  },
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/ViewModels/SubscriptionListViewModel.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubscriptionListViewModel.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubscriptionListViewModel.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubscriptionListViewModel.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubscriptionListViewModel.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubscriptionListViewModel.swiftdeps"
+  },
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/Views/AddEdit/AddSubscriptionView.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/AddSubscriptionView.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/AddSubscriptionView.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/AddSubscriptionView.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/AddSubscriptionView.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/AddSubscriptionView.swiftdeps"
+  }
+}

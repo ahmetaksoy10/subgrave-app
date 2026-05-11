@@ -1,0 +1,23 @@
+{
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/Views/Shared/SubgraveSerifText.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubgraveSerifText.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubgraveSerifText.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubgraveSerifText.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubgraveSerifText.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubgraveSerifText.swiftdeps"
+  },
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/Views/Statistics/StatisticsView.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/StatisticsView.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/StatisticsView.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/StatisticsView.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/StatisticsView.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/StatisticsView.swiftdeps"
+  },
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+  }
+}

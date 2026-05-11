@@ -1,0 +1,30 @@
+{
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/Models/SubscriptionCategory.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubscriptionCategory.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubscriptionCategory.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubscriptionCategory.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubscriptionCategory.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/SubscriptionCategory.swiftdeps"
+  },
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/Services/MockData.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/MockData.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/MockData.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/MockData.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/MockData.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/MockData.swiftdeps"
+  },
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/Services/NotificationService.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/NotificationService.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/NotificationService.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/NotificationService.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/NotificationService.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/NotificationService.swiftdeps"
+  },
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/Services/PersistenceController.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/PersistenceController.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/PersistenceController.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/PersistenceController.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/PersistenceController.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/PersistenceController.swiftdeps"
+  }
+}

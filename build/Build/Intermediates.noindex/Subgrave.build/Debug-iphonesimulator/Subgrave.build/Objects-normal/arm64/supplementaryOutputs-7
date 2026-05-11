@@ -1,0 +1,23 @@
+{
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/Views/Dashboard/Components/UpcomingRenewalsView.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/UpcomingRenewalsView.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/UpcomingRenewalsView.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/UpcomingRenewalsView.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/UpcomingRenewalsView.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/UpcomingRenewalsView.swiftdeps"
+  },
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/Views/Dashboard/Components/YearlySpendingChartView.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/YearlySpendingChartView.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/YearlySpendingChartView.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/YearlySpendingChartView.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/YearlySpendingChartView.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/YearlySpendingChartView.swiftdeps"
+  },
+  "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/Subgrave/Views/Dashboard/DashboardView.swift" : {
+    "const-values" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/DashboardView.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/DashboardView.d",
+    "diagnostics" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/DashboardView.dia",
+    "object" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/DashboardView.o",
+    "swift-dependencies" : "/Users/macbookpro/Desktop/xCode Project/xCode myApp/SwiftUI/Subgrave/build/Build/Intermediates.noindex/Subgrave.build/Debug-iphonesimulator/Subgrave.build/Objects-normal/arm64/DashboardView.swiftdeps"
+  }
+}
